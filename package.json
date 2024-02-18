@@ -1,0 +1,19 @@
+{
+  "name": "doping-scatterplot-graph",
+  "version": "1.0.0",
+  "description": "Visualisation of doping in professional bicycle racing using D3.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarek-gritli/doping-in-professional-bicycle-racing-using-d3.js.git"
+  },
+  "keywords": [
+    "d3",
+    "data-visualization",
+    "scatterplot-graph"
+  ],
+  "author": "tarek-gritli"
+}
